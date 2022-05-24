@@ -1,0 +1,46 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=realme
+ro.product.product.device=even
+ro.product.product.manufacturer=realme
+ro.product.product.model=realme C25 Series
+ro.product.product.name=even
+ro.product.build.date=Tue May 24 12:26:16 UTC 2022
+ro.product.build.date.utc=1653395176
+ro.product.build.fingerprint=google/coral/coral:12/SP2A.220505.002/8353555:user/release-keys
+ro.product.build.id=SP2A.220505.002
+ro.product.build.tags=test-keys
+ro.product.build.type=userdebug
+ro.product.build.version.incremental=eng.gianpa.20220524.083432
+ro.product.build.version.release=12
+ro.product.build.version.release_or_codename=12
+ro.product.build.version.sdk=32
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=32
+ro.build.characteristics=default
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.config.alarm_alert=material_gentle.ogg
+ro.config.notification_sound=material_simple_1.ogg
+ro.config.ringtone=Kaleidoscope_Tune.ogg
+ro.control_privapp_permissions=log
+keyguard.no_require_sim=true
+ro.setupwizard.enterprise_mode=1
+ro.url.legal=http://www.google.com/intl/%s/mobile/android/basic/phone-legal.html
+ro.url.legal.android_privacy=http://www.google.com/intl/%s/mobile/android/basic/privacy.html
+ro.support_one_handed_mode=true
+persist.bluetooth.bluetooth_audio_hal.disabled=true
+persist.bg.dexopt.enable=true
+ro.sf.lcd_density=320
+ro.lmk.psi_complete_stall_ms=150
+ro.lmk.swap_free_low_percentage=20
+ro.lmk.kill_timeout_ms=100
+ro.control_privapp_permissions=log
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

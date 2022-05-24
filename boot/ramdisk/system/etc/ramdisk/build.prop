@@ -1,0 +1,22 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=realme
+ro.product.bootimage.device=even
+ro.product.bootimage.manufacturer=realme
+ro.product.bootimage.model=realme C25 Series
+ro.product.bootimage.name=even
+ro.bootimage.build.date=Tue May 24 12:26:16 UTC 2022
+ro.bootimage.build.date.utc=1653395176
+ro.bootimage.build.fingerprint=google/coral/coral:12/SP2A.220505.002/8353555:user/release-keys
+ro.bootimage.build.id=SP2A.220505.002
+ro.bootimage.build.tags=test-keys
+ro.bootimage.build.type=userdebug
+ro.bootimage.build.version.incremental=eng.gianpa.20220524.083432
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=32
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
